@@ -1,3 +1,6 @@
+/*
+ * Esta clase define una pareja de colaboradores
+*/
 public class Pareja{
     //colaborador"x" define el nombre de los colaboradores
     private String colaborador1 = "Juan Martín";
