@@ -7,4 +7,9 @@ public class Pareja{
         this.colaborador1 = colaborador1;
         this.colaborador2 = colaborador2;
     }
+
+    setColaborador1(String colaborador){
+        this.colaborador1 = colaborador;
+    }
+    
 }
