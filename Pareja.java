@@ -8,8 +8,15 @@ public class Pareja{
         this.colaborador2 = colaborador2;
     }
 
-    setColaborador1(String colaborador){
+    public void setColaborador1(String colaborador){
         this.colaborador1 = colaborador;
     }
     
+    public String getColaborador1(String colaborador){
+        return this.colaborador1;
+    }
+
+    public void sayHi() {
+        System.out.println("Hola");
+    }
 }
